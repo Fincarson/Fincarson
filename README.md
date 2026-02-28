@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Vincent!
 
 > “Fortune favors the bold.”  
+<p>
+  <img alt="GIF" width="200" src="GIF/Waving_Neuro.gif"/>
+</p>
 
-🎓 **Bachelor Student @[National Tsing Hua University](https://www.nthu.edu.tw/)**  
-💡 **Major:** Computer Science
-🔍 **Interests:** Artifical Intelligence · Machine Learning · IoT · Game Development
+🎓 **Bachelor Student @[National Tsing Hua University](https://www.nthu.edu.tw/)** <br>
+💡 **Major:** Computer Science <br>w
+🔍 **Interests:** Artifical Intelligence · Machine Learning · IoT · Game Development <br>
 <br> <br>
 
 # 🧠 Languages & Tools
@@ -21,10 +24,11 @@
 <br>
 
 # 🧩 Online Judges
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="20" align="absmiddle"> **[LeetCode](https://leetcode.com/u/obcOxYQhBf/)** <br>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" height="20" align="absmiddle"> **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/fincarson)** <br>
-🌐 **[NTHU Online Judge](https://acm.cs.nthu.edu.tw/)** <br>
-🌐 **[TLX Toki](https://tlx.toki.id/profiles/Fincarson)** <br>
+## 🧩 Online Judges
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/obcOxYQhBf/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/fincarson)
+[![NTHU Online Judge](https://img.shields.io/badge/NTHU%20Online%20Judge-1f6feb?logoColor=white)](https://acm.cs.nthu.edu.tw/)
+[![TLX Toki](https://img.shields.io/badge/TLX%20TOKI-0ea5e9?logoColor=white)](https://tlx.toki.id/profiles/Fincarson)
 <br>
 
 ## 🤝 Socials
