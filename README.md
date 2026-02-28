@@ -9,7 +9,7 @@
 <br>
 
 # 🧠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow) <br>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white) <br>
@@ -18,7 +18,7 @@
 ![Verilog](https://img.shields.io/badge/Verilog-1f6feb?logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-EE1C25?logoColor=white) <br>
-![MATLAB](https://img.shields.io/badge/MATLAB-e86e05) <br>
+![MATLAB](https://img.shields.io/badge/MATLAB-e86e05)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google+gemini&logoColor=blue)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0ea5e9) <br>
@@ -45,7 +45,7 @@
 <br>
 
 
-## 🤝 Socials
+# 🤝 Socials
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Fincarsons)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Fincarsonss)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huang.fen_/) <br>
