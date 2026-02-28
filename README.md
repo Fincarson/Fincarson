@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Vincent!
-
-> “Fortune favors the bold.”  
 <p>
-  <img alt="GIF" width="200" src="GIF/Waving_Neuro.gif"/>
+  <img alt="GIF" width="100" src="GIF/Waving_Neuro.gif"/>
 </p>
 
 🎓 **Bachelor Student @[National Tsing Hua University](https://www.nthu.edu.tw/)** <br>
-💡 **Major:** Computer Science <br>w
+💡 **Major:** Computer Science <br>
 🔍 **Interests:** Artifical Intelligence · Machine Learning · IoT · Game Development <br>
 <br> <br>
 
@@ -24,11 +22,10 @@
 <br>
 
 # 🧩 Online Judges
-## 🧩 Online Judges
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/obcOxYQhBf/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/fincarson)
 [![NTHU Online Judge](https://img.shields.io/badge/NTHU%20Online%20Judge-1f6feb?logoColor=white)](https://acm.cs.nthu.edu.tw/)
-[![TLX Toki](https://img.shields.io/badge/TLX%20TOKI-0ea5e9?logoColor=white)](https://tlx.toki.id/profiles/Fincarson)
+[![TLX Toki](https://img.shields.io/badge/TLX%20TOKI-0ea5e9?logoColor=white)](https://tlx.toki.id/profiles/Fincarson) <br>
 <br>
 
 ## 🤝 Socials
