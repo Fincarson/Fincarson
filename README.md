@@ -5,20 +5,21 @@
 <br>
 
 # 🧠 Languages/Tools
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="20" align="absmiddle"> Python <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="20" align="absmiddle"> C,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20" align="absmiddle"> C++,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" height="20" align="absmiddle"> C# <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="20" align="absmiddle"> Dart,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="20" align="absmiddle"> Flutter <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="20" align="absmiddle"> `Python` <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="20" align="absmiddle"> `C`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20" align="absmiddle"> `C++`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" height="20" align="absmiddle"> `C#` <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="20" align="absmiddle"> `Dart`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="20" align="absmiddle"> `Flutter` <br>
 <br>
 
 # 🛠️ Environment
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/notion/notion.png" height="20" align="absmiddle"> Notion <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="20" align="absmiddle"> Windows Terminal <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/notion/notion.png" height="20" align="absmiddle"> `Notion` <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="20" align="absmiddle"> `Windows Terminal`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="20" align="absmiddle"> `Linux` <br> <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" height="20" align="absmiddle"> `VS Code`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/clion/clion.png" height="20" align="absmiddle"> `CLion` <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" height="20" align="absmiddle"> `Android Studio` <br>
 <br>
 
 # 🧩 Online Judges
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="20" align="absmiddle"> LeetCode <br>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" height="20" align="absmiddle"> [GeeksforGeeks] (https://www.geeksforgeeks.org/profile/fincarson) <br>
-🌐 weSchool <br>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="20" align="absmiddle"> [LeetCode](https://leetcode.com/u/obcOxYQhBf/) <br>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" height="20" align="absmiddle"> [GeeksforGeeks](https://www.geeksforgeeks.org/profile/fincarson) <br>
 🌐 [NTHU Online Judge](https://acm.cs.nthu.edu.tw/) <br>
 🌐 [TLX Toki](https://tlx.toki.id/profiles/Fincarson) <br>
 <br>
