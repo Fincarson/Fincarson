@@ -9,7 +9,7 @@
 <br>
 
 # 🧠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow) <br>
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white) <br>
@@ -20,7 +20,7 @@
 ![Vivado](https://img.shields.io/badge/Vivado-EE1C25?logoColor=white) <br>
 ![MATLAB](https://img.shields.io/badge/MATLAB-e86e05) <br>
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google+gemini&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google+gemini&logoColor=blue)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-0ea5e9) <br>
 <br>
 
@@ -30,8 +30,8 @@
 ![CLI](https://img.shields.io/badge/CLI-121011?logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) <br>
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=white) <br>
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white) <br>
+![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=pink) <br>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=blue) <br>
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) <br>
 <br>
 
