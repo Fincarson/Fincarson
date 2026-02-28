@@ -2,36 +2,32 @@
 
 > “Fortune favors the bold.”  
 
-🎓 **Bachelor Student @ [National Tsing Hua University](https://www.nthu.edu.tw/)**  
-💡 **Major:** Computer Science  
+🎓 **Bachelor Student @[National Tsing Hua University](https://www.nthu.edu.tw/)**  
+💡 **Major:** Computer Science
 🔍 **Interests:** Artifical Intelligence · Machine Learning · IoT · Game Development
-<br>
+<br> <br>
 
 # 🧠 Languages & Tools
-These are the languages and tools I mainly use. <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="20" align="absmiddle"> **`*Python`** <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="20" align="absmiddle"> `**C**`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20" align="absmiddle"> `C++`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" height="20" align="absmiddle"> `C#` <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="20" align="absmiddle"> `Dart`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="20" align="absmiddle"> `Flutter` <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="20" align="absmiddle"> **`Python`** <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="20" align="absmiddle"> **`C`**,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20" align="absmiddle"> **`C++`**,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" height="20" align="absmiddle"> **`C#`** <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="20" align="absmiddle"> **`Dart`**,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="20" align="absmiddle"> **`Flutter`** <br>
 <br>
 
 # 🛠️ Environment
-These are the spaces I work on. <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/notion/notion.png" height="20" align="absmiddle"> `Notion` <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="20" align="absmiddle"> `Windows Terminal`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="20" align="absmiddle"> `Linux` <br> <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" height="20" align="absmiddle"> `VS Code`,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/clion/clion.png" height="20" align="absmiddle"> `CLion` <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" height="20" align="absmiddle"> `Android Studio` <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="20" align="absmiddle"> **`Windows Terminal`**, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" align="absmiddle"> **`CLI`**,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" height="20" align="absmiddle"> **`Linux`** <br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" align="absmiddle"> **`VS Code`**, <img src="https://cdn.simpleicons.org/clion?viewbox=auto&size=20" height="20" align="absmiddle"> **`CLion`** <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/android-studio/android-studio.png" height="20" align="absmiddle"> **`Android Studio`** <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/notion/notion.png" height="20" align="absmiddle"> **`Notion`** <br>
 <br>
 
 # 🧩 Online Judges
-These are my coding practice platforms. <br>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="20" align="absmiddle"> [LeetCode](https://leetcode.com/u/obcOxYQhBf/) <br>
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" height="20" align="absmiddle"> [GeeksforGeeks](https://www.geeksforgeeks.org/profile/fincarson) <br>
-🌐 [NTHU Online Judge](https://acm.cs.nthu.edu.tw/) <br>
-🌐 [TLX Toki](https://tlx.toki.id/profiles/Fincarson) <br>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="20" align="absmiddle"> **[LeetCode](https://leetcode.com/u/obcOxYQhBf/)** <br>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" height="20" align="absmiddle"> **[GeeksforGeeks](https://www.geeksforgeeks.org/profile/fincarson)** <br>
+🌐 **[NTHU Online Judge](https://acm.cs.nthu.edu.tw/)** <br>
+🌐 **[TLX Toki](https://tlx.toki.id/profiles/Fincarson)** <br>
 <br>
 
 ## 🤝 Socials
-Connect with me! My door is always open. <br>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Fincarsons)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Fincarsonss)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huang.fen_/) <br>
