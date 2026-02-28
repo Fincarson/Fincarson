@@ -4,18 +4,26 @@
 💭 Currently learning about AI and Machine Learning.
 <br>
 
-# 💻 Languages/Tools
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="20" align="absmiddle"> C, <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20" align="absmiddle"> C++, <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="20" align="absmiddle"> Python <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="20" align="absmiddle"> Dart, <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="20" align="absmiddle"> Flutter <br>
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/cmake/cmake.png" height="20" align="absmiddle"> CMake <br>
+# 🧠 Languages/Tools
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="20" align="absmiddle"> Python <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" height="20" align="absmiddle"> C,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" height="20" align="absmiddle"> C++,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" height="20" align="absmiddle"> C# <br>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/dart/dart.png" height="20" align="absmiddle"> Dart,  <img src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" height="20" align="absmiddle"> Flutter <br>
 <br>
 
-# 💻 Environment
+# 🛠️ Environment
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/notion/notion.png" height="20" align="absmiddle"> Notion <br>
 <img src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" height="20" align="absmiddle"> Windows Terminal <br>
 <br>
 
-## 🌐 Socials
+# 🧩 Online Judges
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="20" align="absmiddle"> LeetCode <br>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" height="20" align="absmiddle"> [GeeksforGeeks] (https://www.geeksforgeeks.org/profile/fincarson) <br>
+🌐 weSchool <br>
+🌐 [NTHU Online Judge](https://acm.cs.nthu.edu.tw/) <br>
+🌐 [TLX Toki](https://tlx.toki.id/profiles/Fincarson) <br>
+<br>
+
+## 🤝 Socials
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Fincarsons)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Fincarsonss)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huang.fen_/) <br>
