@@ -18,6 +18,8 @@
 ![Verilog](https://img.shields.io/badge/Verilog-1f6feb?logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-EE1C25?logoColor=white) <br>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) <br>
 ![MATLAB](https://img.shields.io/badge/MATLAB-e86e05)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google+gemini&logoColor=blue)
