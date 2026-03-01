@@ -31,9 +31,9 @@
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-121011?logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) <br>
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=pink)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=blue) <br>
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) <br>
 <br>
