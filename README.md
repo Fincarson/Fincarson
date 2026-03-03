@@ -17,6 +17,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) <br>
 ![Verilog](https://img.shields.io/badge/Verilog-1f6feb?logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-6E40C9?logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-EE1C25?logoColor=white) <br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) <br>
@@ -35,6 +36,8 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=pink)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=blue) <br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) <br>
 <br>
 
