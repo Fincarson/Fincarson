@@ -1,61 +1,59 @@
-# 👋 Hi, I'm Vincent!
+# 👋 Welcome!
 <p>
-  <img alt="GIF" width="100" src="GIF/Waving_Neuro.gif"/>
+  <img alt="GIF" width="60" src="assets/gif/Waving_Neuro.gif"/>
+  &nbsp;
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=A0A0A0&center=false&vCenter=true&width=400&lines=Hellooo!!;Fancy+seeing+you+here!"/>
 </p>
 
 🎓 **Bachelor Student @[National Tsing Hua University](https://www.nthu.edu.tw/)** <br>
 💡 **Major:** Computer Science <br>
-🔍 **Interests:** Artifical Intelligence · Machine Learning · IoT · Game Development <br>
+🔍 **Interests:** Artificial Intelligence · Machine Learning · IoT · Game Development <br>
 <br>
 
-# 🧠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white) <br>
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) <br>
-![Verilog](https://img.shields.io/badge/Verilog-1f6feb?logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-6E40C9?logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-EE1C25?logoColor=white) <br>
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white) <br>
-![MATLAB](https://img.shields.io/badge/MATLAB-e86e05)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?logo=google+gemini&logoColor=blue)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-0ea5e9) <br>
-<br>
-
-
-# 🛠️ Environment
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows-terminal&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-121011?logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) <br>
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?logo=clion&logoColor=pink)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=blue) <br>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) <br>
+# 🧰 Tech Stack
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![C](https://skillicons.dev/icons?i=c)](https://en.cppreference.com/w/c)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/dotnet/csharp/)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev/)
+[![Verilog](assets/icons/verilog.svg)](https://en.wikipedia.org/wiki/Verilog)
+[![MATLAB](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html) <br>
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+[![FPGA](assets/icons/fpga.svg)](https://en.wikipedia.org/wiki/Field-programmable_gate_array)
+[![Vivado](assets/icons/vivado.svg)](https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/)
+[![Windows Terminal](assets/icons/windows-terminal.svg)](https://learn.microsoft.com/windows/terminal/)
+[![CLI](assets/icons/cli.svg)](https://www.gnu.org/software/bash/)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
+[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![CLion](https://skillicons.dev/icons?i=clion)](https://www.jetbrains.com/clion/)
+[![Android Studio](https://skillicons.dev/icons?i=androidstudio)](https://developer.android.com/studio)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Canva](assets/icons/canva.svg)](https://www.canva.com/)
+[![Notion](https://skillicons.dev/icons?i=notion)](https://www.notion.so/) <br>
+[![ChatGPT](assets/icons/chatgpt.svg)](https://chatgpt.com/)
+[![Google Gemini](assets/icons/gemini.svg)](https://gemini.google.com/)
+[![DeepSeek](assets/icons/deepseek.svg)](https://www.deepseek.com/) <br>
 <br>
 
 
 # 🧩 Online Judges
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/obcOxYQhBf/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/fincarson) <br>
-[![NTHU Online Judge](https://img.shields.io/badge/NTHU%20Online%20Judge-1f6feb?logoColor=white)](https://acm.cs.nthu.edu.tw/)
-[![TLX Toki](https://img.shields.io/badge/TLX%20TOKI-0ea5e9?logoColor=white)](https://tlx.toki.id/profiles/Fincarson) <br>
+[![LeetCode](assets/icons/leetcode.svg)](https://leetcode.com/u/obcOxYQhBf/)
+[![GeeksforGeeks](assets/icons/geeksforgeeks.svg)](https://www.geeksforgeeks.org/profile/fincarson)
+[![NTHU Online Judge](assets/icons/nthu.svg)](https://acm.cs.nthu.edu.tw/)
+[![TLX Toki](assets/icons/toki.svg)](https://tlx.toki.id/profiles/Fincarson) <br>
 <br>
 
 
 # 🤝 Socials
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Fincarsons)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Fincarsonss)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/huang.fen_/) <br>
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Fincarsonss/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://meta.stackexchange.com/users/1880835/vincent) <br>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Fincarsonss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincent-jefferson-55b831293/) <br>
+[![X](assets/icons/x.svg)](https://x.com/Fincarsons)
+[![Facebook](assets/icons/facebook.svg)](https://www.facebook.com/Fincarsonss)
+[![Instagram](assets/icons/instagram.svg)](https://www.instagram.com/huang.fen_/)
+[![Reddit](assets/icons/reddit.svg)](https://www.reddit.com/user/Fincarsonss/)
+[![Stack Overflow](assets/icons/stackoverflow.svg)](https://meta.stackexchange.com/users/1880835/vincent)
+[![YouTube](assets/icons/youtube.svg)](https://www.youtube.com/@Fincarsonss)
+[![LinkedIn](assets/icons/linkedin.svg)](https://www.linkedin.com/in/vincent-jefferson-55b831293/) <br>
 <br>
